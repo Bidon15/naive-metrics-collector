@@ -1,0 +1,17 @@
+[{
+  "StartedAt": "2022-12-20T16:58:18.982535279Z",
+  "EndedAt": "2022-12-20T17:10:48.993375866Z",
+  "FailedTxs": 0,
+  "EvictedTxs": 0,
+  "SuccessfulTxs": 11936,
+  "AlreadySeenTxs": 5396,
+  "AlreadyRejectedTxs": 48,
+  "RequestedTxs": 13148,
+  "RerequestedTxs": 3138,
+  "LostTxs": 62,
+  "FailedResponses": 0,
+  "SentTransactionBytes": 129741484,
+  "SentStateBytes": 10421048,
+  "ReceivedTxBytes": 98243402,
+  "ReceivedStateBytes": 9631720
+}]
